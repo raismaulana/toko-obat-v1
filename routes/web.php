@@ -1,11 +1,3 @@
-<!-- =========================================================================================
-  Name: Toko Obat V1 Website
-  Author: Muhammad Fauzan
-  Author URL: http://fauzanishere.my.id
-  Repository: https://github.com/fauzan121002/toko-obat-v1
-  Community: Devover ID
-  Community URL : http://devover.id
-========================================================================================== -->
 <?php
 date_default_timezone_set('Asia/Jakarta');
 /*
