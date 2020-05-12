@@ -18,7 +18,16 @@ Web POS Toko Obat yang dibuat oleh <a href="https://github.com/fauzan121002"> Mu
 ### 🤨 Fitur apa saja yang tersedia di Toko Obat?
 - Autentikasi Admin & Kasir
 - Dashboard
--
+- Kasir
+- Kategori 
+- Jenis Obat
+- Obat
+- Kategori Obat
+- Alat Kesehatan
+- Suplemen 
+- Supplier
+- Riwayat Transaksi
+- Update Pengumuman
 
 ### 📆 <a href="http://fauzanishere.my.id/">Release Date</a>
 **Release date : 12 May 2020**
