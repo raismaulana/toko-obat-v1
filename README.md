@@ -50,7 +50,6 @@ Web POS Toko Obat yang dibuat oleh <a href="https://github.com/fauzan121002"> Mu
 git clone https://github.com/fauzan121002/toko-obat-v1.git
 cd toko-obat-v1
 composer install
-npm install
 copy .env.example .env
 ```
 
