@@ -153,7 +153,6 @@
                                             <input type='number' name='uang_diterima' class='form-control total_harga' required readonly value='0'>
                                             <hr/>
                                             <button type='submit' class='btn bg-success mt-3 text-white'><span class='mr-1'><i class='fas fa-cash-register'></i></span>Checkout</button>
-                                            <button type='submit' formaction='/cart' class='btn bg-primary mt-3 text-white'><span class='mr-1'><i class="fas fa-cart-arrow-down"></i></span>Masukkan ke Cart</button>
                                             <button type='button' class='btn btn-secondary mt-3 text-white' data-dismiss='modal'>Tutup</button>
                                             </form>
                                         </div>

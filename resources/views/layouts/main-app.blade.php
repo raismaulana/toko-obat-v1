@@ -64,7 +64,6 @@
                 <div class="dropdown-menu bg-danger" aria-labelledby="dropdownMenuButton">
                   <div class="dropdown-header text-white">Manajemen :</div>
                   <a class="nav-link text-white" href="/supplier"><span class="mr-1 ml-2"><i class="fas fa-truck"></i></span>Supplier</a>  
-                  <a class="nav-link text-white" href="/riwayatpengiriman"><span class="mr-1 ml-2"><i class="fas fa-truck"></i></span>Riwayat Pengiriman</a>
                   <a class="nav-link text-white" href="/riwayattransaksi"><span class="mr-1 ml-2"><i class="fas fa-comment-dollar"></i></span>Riwayat Transaksi</a>
                   @if (session('level') == 'admin' || session('level') == 'developer')
                       <a data-toggle="modal" data-target="#ubahpengumuman" class="nav-link text-white"><span class="mr-1 ml-2"><i class="fas fa-plus"></i></span>Update Pengumuman</a>         
